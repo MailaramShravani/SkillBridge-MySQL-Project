@@ -30,9 +30,9 @@ Query Language| SQL
 
 ## 4. Database Design
 
-# The SkillBridge database consists of the following tables:
+ The SkillBridge database consists of the following tables:
 
-# S.No.| Table Name| Description
+## S.No.| Table Name| Description
 1| Students| Stores student details.
 2| Skills| Stores available skills.
 3| Student_Skills| Connects students with their skills.
@@ -44,7 +44,7 @@ Query Language| SQL
 
 ## 5. SQL Concepts Implemented
 
-# A. SQL Fundamentals
+## A. SQL Fundamentals
 
 - CREATE DATABASE
 - CREATE TABLE
@@ -55,7 +55,7 @@ Query Language| SQL
 - AUTO_INCREMENT
 - INSERT INTO
 
-# B. SQL Query Operations
+## B. SQL Query Operations
 
 - SELECT
 - WHERE
@@ -69,7 +69,7 @@ Query Language| SQL
 - LEFT JOIN
 - Subqueries
 
-# C. Advanced SQL Concepts
+## C. Advanced SQL Concepts
 
 - Views
 - Indexes
@@ -147,6 +147,6 @@ It focuses on implementing MySQL concepts, database relationships and query oper
 
 SkillBridge is a MySQL-based database management project that demonstrates student skill management and career opportunity tracking through SQL.
 
-# Developed Using: MySQL
+## Developed Using: MySQL
 
-# Project Type: SQL Database Management Project
+## Project Type: SQL Database Management Project
