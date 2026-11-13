@@ -1,5 +1,5 @@
 # SkillBridge – Student Skills & Career Development System
-## 1. Project Overview
+### 1. Project Overview
 
 SkillBridge is a MySQL-based Student Skills and Career Development System.
 
@@ -10,7 +10,7 @@ SkillBridge is a MySQL-based Student Skills and Career Development System.
 - Maintains student certification records.
 - Helps retrieve and analyse career-related information using SQL queries.
 
-## 2. Project Objectives
+### 2. Project Objectives
 
 1. To maintain student information systematically.
 2. To manage student skills and proficiency levels.
@@ -21,14 +21,14 @@ SkillBridge is a MySQL-based Student Skills and Career Development System.
 7. To establish relationships between database tables.
 8. To retrieve useful information using SQL queries.
 
-## 3. Technologies Used
+### 3. Technologies Used
 
 Category| Technology
 Database| MySQL
 Database Management Tool| MySQL Workbench
 Query Language| SQL
 
-## 4. Database Design
+### 4. Database Design
 
  The SkillBridge database consists of the following tables:
 
@@ -42,9 +42,9 @@ Query Language| SQL
 7| Certifications| Stores student certification details.
 8| Application_Status_History| Tracks application status changes.
 
-## 5. SQL Concepts Implemented
+### 5. SQL Concepts Implemented
 
-## A. SQL Fundamentals
+#### A. SQL Fundamentals
 
 - CREATE DATABASE
 - CREATE TABLE
@@ -55,7 +55,7 @@ Query Language| SQL
 - AUTO_INCREMENT
 - INSERT INTO
 
-## B. SQL Query Operations
+#### B. SQL Query Operations
 
 - SELECT
 - WHERE
@@ -69,7 +69,7 @@ Query Language| SQL
 - LEFT JOIN
 - Subqueries
 
-## C. Advanced SQL Concepts
+#### C. Advanced SQL Concepts
 
 - Views
 - Indexes
@@ -77,7 +77,7 @@ Query Language| SQL
 - Triggers
 - DELIMITER
 
-## 6. System Workflow
+### 6. System Workflow
 
 1. Create the SkillBridge database.
 2. Create the required database tables.
@@ -90,7 +90,7 @@ Query Language| SQL
 9. Track application status changes using triggers.
 10. Retrieve and analyse information using SQL queries and views.
 
-## 7. Reports and Analysis
+### 7. Reports and Analysis
 
 The project uses SQL queries to generate useful information and reports.
 
@@ -104,7 +104,7 @@ The project uses SQL queries to generate useful information and reports.
 8. Display student application details using JOIN operations.
 9. Generate combined reports using database views.
 
-## 8. Project Structure
+### 8. Project Structure
 
 SkillBridge – Student Skills & Career Development System
 │
@@ -130,12 +130,12 @@ SkillBridge – Student Skills & Career Development System
 │
 └── 11. Trigger Implementation
 
-## Project Files:
+### Project Files:
 
 - "README.md" – Project documentation.
 - "SkillBridge.sql" – Complete SQL database script.
 
-## 9. Project Status
+### 9. Project Status
 
  Current Status: Under Development
 
@@ -143,7 +143,7 @@ This project is being developed to gain practical experience in SQL programming 
 
 It focuses on implementing MySQL concepts, database relationships and query operations through a real-world project.
 
- ## 10. Conclusion
+ ### 10. Conclusion
 
 SkillBridge is a MySQL-based database management project that demonstrates student skill management and career opportunity tracking through SQL.
 
